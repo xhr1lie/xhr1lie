@@ -1,2 +1,3 @@
 
-https://img.shields.io/badge/<LABEL>-<sjh.chr1lie@gmail.com>-<fedcba>
+
+https://img.shields.io/badge/style-forthebage-red?sjh.chr1lie@gmail.com?logo=gmail
