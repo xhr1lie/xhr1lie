@@ -1,4 +1,17 @@
-https://img.shields.io/badge/:badgeContent
 
-https://img.shields.io/badge/style-forthebage-red?sjh.chr1lie@gmail.com?logo=gmail
-https://img.shields.io/badge/github-GIVEME--STAR-red
+![Static Badge](https://img.shields.io/badge/sjh.chr1lie%40gmail.com-%23FF6847%20?style=flat-square&logo=gmail&logoColor=%23FFFFFF)
+![Static Badge](https://img.shields.io/badge/CharlieSong-%230A66C2?style=flat-square&logo=Linkedin&logoColor=%23FFFFFF)
+![Static Badge](https://img.shields.io/badge/xhr1les-%23C6C6C6%20?style=flat-square&logo=VSCO&logoColor=%23000000&link=https%3A%2F%2Fvsco.co%2Fxhr1les%2Fgallery)
+
+
+
+
+I am currently enrolled in an ESD (Engineering Systems and Design) program at the Singapore University of Technology and Design (SUTD). 
+My career goal is to excel as a data analyst.
+
+I like listening to music.
+Working out at the gym.
+
+I can do
+
+![Static Badge](https://img.shields.io/badge/Python-%2347B5FF%20?style=flat-square&logo=Python&logoColor=%23FFFFFF)
