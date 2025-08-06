@@ -11,9 +11,6 @@
 I am currently enrolled in an ESD (Engineering Systems and Design) program at the Singapore University of Technology and Design (SUTD). 
 My career goal is to excel as a data analyst.
 
-I like listening to music.
-Working out at the gym.
 
-I can do
 
 ![Static Badge](https://img.shields.io/badge/Python-%2347B5FF%20?style=flat-square&logo=Python&logoColor=%23FFFFFF)
