@@ -5,8 +5,8 @@
 
 
 
-I am currently enrolled in an ESD (Engineering Systems and Design) program at the Singapore University of Technology and Design (SUTD). 
-My career goal is to excel as a data analyst.
+I am currently enrolled in an CSD (Computer Science and Design) program at the Singapore University of Technology and Design (SUTD). 
+
 
 
 
